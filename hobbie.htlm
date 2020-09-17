@@ -1,0 +1,21 @@
+
+     <H1>Gregory Querrien</H1>
+     <ul>
+         <li> <a href="#mes_competences">Mes Compétences</a></li>
+         <li> <a href="#mes_hobbies">Mes Hobbies</a></li>
+         
+     </ul>
+
+     <h2 id="mes_competences">Mes Compétences</h2>
+     <h2 id="mes_hobbies">Mes Hobbies</h2>
+
+     <div id="gallerie_photo">
+         <img id="image_GOW" src="https://www.goodtastepolice.fr/wp-content/uploads/2018/05/GTP_test_god-of-war_cover-1155x770.jpg">
+         <img id="image_TLOU" src="https://www.numerama.com/content/uploads/2020/08/artwork-the-last-of-us-part-ii-02.jpg">
+      
+
+     </div>
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/RU__0SKUz6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+     -->
