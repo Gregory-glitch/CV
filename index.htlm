@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>Ma Page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8">
+</head>
+<body>
+    
+    <header>
+            <nav>
+                <ul>
+                    <li> <a href="#Accueil">Accueil</a></li>
+                    <li> <a href="#Blog">Blog</a></li>
+                    <li> <a href="#Contact">Contact</a></li>
+                </ul>
+            </nav>
+    </header>
+
+
+
+</body>
+</html>
